@@ -1,6 +1,6 @@
 /* Hint! the @font-face rule needs to be the first thing in your CSS file!*/
 @font-face {
-    font-family: 'Asap-Regular';
+    font-family: 'Asap';
 	src: url('fonts/Asap-Regular.otf');
 	src: url('fonts/Asap-BoldItalic.otf');
 	src: url('fonts/Asap-Italic.otf');
@@ -10,62 +10,62 @@
 }
 
 @font-face {
-    font-family: 'Asap-Regular';
+    font-family: 'Asap';
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Asap-Regular';
+    font-family: 'Asap';
     font-weight: normal;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Asap-Regular';
+    font-family: 'Asap';
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Asap-Regular';
+    font-family: 'Asap';
     font-weight: bold;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Asap-Regular';
+    font-family: 'Asap';
     font-weight: medium;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Asap-Regular';
+    font-family: 'Asap';
     font-weight: medium;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'CinzelDecorative-Regular';
+    font-family: 'CinzelDecorative';
 	src: url('fonts/CinzelDecorative-Regular.ttf');
 	src: url('fonts/CinzelDecorative-Bold.ttf');
 	src: url('fonts/CinzelDecorative-Black.ttf');
 }
 
 @font-face {
-    font-family: 'CinzelDecorative-Regular';
+    font-family: 'CinzelDecorative';
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'CinzelDecorative-Regular';
+    font-family: 'CinzelDecorative';
     font-weight: normal;
     font-style: bold;
 }
 
 @font-face {
-    font-family: 'CinzelDecorative-Regular';
+    font-family: 'CinzelDecorative';
     font-weight: normal;
     font-style: black;
 }
@@ -92,29 +92,29 @@ body {
 }
 
 h1 {
-	font-family: 'Asap-Regular';
+	font-family: 'Asap, serif';
 }
 
 h2 {
-	font-family: 'Asap-Regular';
+	font-family: 'Asap, serif';
 }
 
 h3 {
-	font-family: 'Asap-Regular';
+	font-family: 'Asap, serif';
 }
 
 h4 {
-	font-family: 'CinzelDecorative-Regular';
+	font-family: 'CinzelDecorative, sans serif';
 }
 
 h5 {
-	font-family: 'CinzelDecorative-Regular';
+	font-family: 'CinzelDecorative, sans serif';
 }
 
 h6 {
-	font-family: 'CinzelDecorative-Regular';
+	font-family: 'CinzelDecorative, sans serif';
 }
 
 p {
-	font-family: 'CinzelDecorative-Regular';
+	font-family: 'CinzelDecorative, sans serif';
 }
