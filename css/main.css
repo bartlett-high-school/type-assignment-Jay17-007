@@ -1,12 +1,12 @@
 /* Hint! the @font-face rule needs to be the first thing in your CSS file!*/
 @font-face {
     font-family: Asap;
-	src: url(fonts/Asap-Regular.otf);
-	src: url(fonts/Asap-BoldItalic.otf);
-	src: url(fonts/Asap-Italic.otf);
-	src: url(fonts/Asap-Bold.otf);
-	src: url(fonts/Asap-Medium.otf);
-	src: url(fonts/Asap-MediumItalic.otf);
+	src: url("fonts/Asap-Regular.otf");
+	src: url("fonts/Asap-BoldItalic.otf");
+	src: url("fonts/Asap-Italic.otf");
+	src: url("fonts/Asap-Bold.otf");
+	src: url("fonts/Asap-Medium.otf");
+	src: url("fonts/Asap-MediumItalic.otf");
 }
 
 @font-face {
@@ -47,9 +47,9 @@
 
 @font-face {
     font-family: CinzelDecorative;
-	src: url(fonts/CinzelDecorative-Regular.ttf);
-	src: url(fonts/CinzelDecorative-Bold.ttf);
-	src: url(fonts/CinzelDecorative-Black.ttf);
+	src: url("fonts/CinzelDecorative-Regular.ttf");
+	src: url("fonts/CinzelDecorative-Bold.ttf");
+	src: url("fonts/CinzelDecorative-Black.ttf");
 }
 
 @font-face {
