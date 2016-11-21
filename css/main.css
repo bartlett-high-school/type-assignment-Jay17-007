@@ -200,29 +200,29 @@ body {
 }
 
 h1 {
-	font-family:' Asap, serif';
+	font-family:' asapregular, serif';
 }
 
 h2 {
-	font-family: 'Asap, serif';
+	font-family: 'asapmediumitalic, serif';
 }
 
 h3 {
-	font-family: 'Asap, serif';
+	font-family: 'asapitalic, serif';
 }
 
 h4 {
-	font-family: 'CinzelDecorative, sans-serif';
+	font-family: 'cinzel_decorativebold, sans-serif';
 }
 
 h5 {
-	font-family: 'CinzelDecorative, sans-serif';
+	font-family: 'cinzel_decorativeregular, sans-serif';
 }
 
 h6 {
-	font-family: 'CinzelDecorative, sans-serif';
+	font-family: 'cinzel_decorativebold, sans-serif';
 }
 
 p {
-	font-family: 'CinzelDecorative, sans-serif';
+	font-family: 'cinzel_decorativeblack, sans-serif';
 }
